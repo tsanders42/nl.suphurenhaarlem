@@ -10183,6 +10183,7 @@ header.masthead.thankyou{
 
 header.masthead h1 {
   font-size: 2.25rem;
+  text-shadow: 2px 2px #000000;
 }
 @media (min-width: 992px) {
   header.masthead {
