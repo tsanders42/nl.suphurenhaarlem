@@ -10111,7 +10111,9 @@ hr.light {
   }
 }
 header.masthead {
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.1) 0%, rgba(92, 77, 66, 0.5) 100%), url('../assets/img/cover2.jpg');
+
+    
+  background: linear-gradient(to bottom, rgb(92 77 66 / 0) 0%, rgb(67 72 93 / 50%) 100%), url('../assets/img/cover2.jpg');
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
   background-position: center;
@@ -10121,7 +10123,7 @@ header.masthead {
   height: 100vh;
 }
 header.masthead.sup{
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.1) 50%, rgba(92, 77, 66, 0.5) 100%), url('../assets/img/cover2.jpg');
+  background: linear-gradient(to bottom, rgb(92 77 66 / 0) 0%, rgb(67 72 93 / 50%) 100%), url('../assets/img/cover2.jpg');
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
   background-position: center;
